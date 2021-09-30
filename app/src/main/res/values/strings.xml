@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FavoriteArtistSongs</string>
+    <string name="title_list">List</string>
+    <string name="title_details">Details</string>
+    <string name="error_occurred">Error occurred try a different artist</string>
+    <string name="search_favorite_artist">Search favorite artist</string>
+    <string name="no_songs_found">No songs found</string>
+    <string name="album_image">album image</string>
+</resources>
