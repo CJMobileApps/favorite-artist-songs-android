@@ -5,8 +5,8 @@ This is an Android app that uses the iTunes search API to create a list of songs
 Screen shots and Video Walkthrough
 ----
 
-<img src='https://i.imgur.com/flHFQQx.jpeg' title='User Story 1 Screen shot' width='' alt='User Story 1 Screen Shot' />
-<img src='https://i.imgur.com/0FjmQGJ.jpeg' title='User Story 2 Screen shot' width='' alt='User Story 2 Screen Shot' />
+<img src='https://i.imgur.com/0FjmQGJ.jpeg' title='User Story 1 Screen shot' width='' alt='User Story 1 Screen Shot' />
+<img src='https://i.imgur.com/flHFQQx.jpeg' title='User Story 2 Screen shot' width='' alt='User Story 2 Screen Shot' />
 
 Build Tools & Versions Used
 ----
@@ -35,11 +35,11 @@ phone
 Left Out and/or Would Do Next.
 ----
 
-[] Add Espresso test
-[] Add more info to the detail screen
-[] Probably need to use another api for detail screen or find a better album image?
-[] Implement more advanced theming
-[] Add pull down to refresh?
-[] Add implementation for screen orientation
-[] Make it look good on tablets
-[] Jetpack Compose is about to be the new thing?
+[] Add Espresso test <br />
+[] Add more info to the detail screen <br />
+[] Probably need to use another api for detail screen or find a better album image? <br />
+[] Implement more advanced theming <br />
+[] Add pull down to refresh? <br />
+[] Add implementation for screen orientation <br />
+[] Make it look good on tablets <br />
+[] Jetpack Compose is about to be the new thing? <br />
